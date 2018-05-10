@@ -1,2 +1,2 @@
 # provaGitHub
-Repositori de prova de GitHub
+Repositori de prova tan de GitHub con de Git
